@@ -1,0 +1,61 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch LoanCalculator",
+            "request": "launch",
+            "mainClass": "lab11.LoanCalculator",
+            "projectName": "lab10_9ba3ada4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "lab11.App",
+            "projectName": "lab10_9ba3ada4",
+            "vmArgs": "--module-path \"C:/Users/thana/AppData/Local/Programs/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch App(1)",
+            "request": "launch",
+            "mainClass": "pro1.App",
+            "projectName": "lab10_9ba3ada4",
+            "vmArgs": "--module-path \"C:/Users/thana/AppData/Local/Programs/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch App(2)",
+            "request": "launch",
+            "mainClass": "pro2.App",
+            "projectName": "lab10_9ba3ada4",
+            "vmArgs": "--module-path \"C:/Users/thana/AppData/Local/Programs/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch App(3)",
+            "request": "launch",
+            "mainClass": "pro3.App",
+            "projectName": "lab10_9ba3ada4",
+            "vmArgs": "--module-path \"C:/Users/thana/AppData/Local/Programs/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch App(4)",
+            "request": "launch",
+            "mainClass": "pro4.App",
+            "projectName": "lab10_9ba3ada4",
+            "vmArgs": "--module-path \"C:/Users/thana/AppData/Local/Programs/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
